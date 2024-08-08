@@ -11,12 +11,12 @@
 
 @font-face {
     font-family: "TTNorms Light";
-    src: url(../Fonts/TTNorms-Light.otf) format("openType");
+    src: url("../Fonts/TTNorms-Light.otf") format("openType");
 }
 
 @font-face {
     font-family: "Times Roman Italic";
-    src: url(../Fonts/Times-new-roman-italic.ttf) format("openType");
+    src: url("../Fonts/Times-new-roman-italic.ttf") format("openType");
 }
 
 /*Start Project*/
