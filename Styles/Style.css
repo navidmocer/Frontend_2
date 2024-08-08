@@ -1,17 +1,17 @@
 /*------Fonts------ */
 @font-face {
     font-family: "TTNorms";
-    src: url("Fonts/TTNorms-Regular.otf") format("openType");
+    src: url("../Fonts/TTNorms-Regular.otf") format("openType");
 }
 
 @font-face {
     font-family: "TTNorms Medium";
-    src: url("Fonts/TTNorms-Medium.otf") format("openType");
+    src: url("../Fonts/TTNorms-Medium.otf") format("openType");
 }
 
 @font-face {
     font-family: "TTNorms Light";
-    src: url("Fonts/TTNorms-Light.otf") format("openType");
+    src: url("../Fonts/TTNorms-Light.otf") format("openType");
 }
 
 @font-face {
